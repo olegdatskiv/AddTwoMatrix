@@ -1,0 +1,6 @@
+C:\Users\Demo\Desktop\AddMatrix\bin\Debug\AddMatrix.exe.config
+C:\Users\Demo\Desktop\AddMatrix\obj\Debug\AddMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Demo\Desktop\AddMatrix\bin\Debug\AddMatrix.exe
+C:\Users\Demo\Desktop\AddMatrix\bin\Debug\AddMatrix.pdb
+C:\Users\Demo\Desktop\AddMatrix\obj\Debug\AddMatrix.exe
+C:\Users\Demo\Desktop\AddMatrix\obj\Debug\AddMatrix.pdb
